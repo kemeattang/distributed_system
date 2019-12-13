@@ -1,3 +1,3 @@
-# distributed_system
+# distributed System
 
 This is a list projects i did while focusing on distributed systems in java
